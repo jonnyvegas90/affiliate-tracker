@@ -50,5 +50,9 @@
   {
     "wallet": "0x7923fa84Fb43D0A471bbaF8831c178BEd876ad41",    
     "frontendName": "Bitruby"
+  },
+    {
+    "wallet": "0xacaad22871bcaf73d355db291bf848f2c23dedd8",    
+    "frontendName": "Bookiebot"
   }
 ]
